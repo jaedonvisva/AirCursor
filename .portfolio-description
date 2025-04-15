@@ -1,0 +1,1 @@
+A real-time computer vision project that allows users to control their computer using hand gestures captured through a webcam. It uses Mediapipe, OpenCV, and PyAutoGUI to enable hardware-free mouse movement, scrolling, and clicking through intuitive gestures.
